@@ -3,9 +3,8 @@
 In this Project, We use the Variational Autoencoder in seperating football Images from ads. The VAE was trained using football images only, with this, when images from a different distribution is fed into the VAE the reconstruction loss is then considerably higher.
 
 
-![](./images/other_images/meduim front-page.jpg)
+![](./images/other_images/front_page.jpg)
 
-http://localhost:8888/lab/tree/final%20DSR-Project/images/other_images/meduim%20front-page.jpg
 
 ## Contents
 
