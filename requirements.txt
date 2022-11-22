@@ -5,5 +5,5 @@ matplotlib==3.1.1
 ipython==7.9.0
 future==0.18.2
 imageio==2.6.1
-Pillow==6.2.1
+Pillow==9.3.0
 tensorflow==2.0.0
